@@ -63,17 +63,17 @@ p {
 }
 
 section:nth-of-type(1) {
-    height:1300px;
+    height:2000px;
 
 }
 
 section:nth-of-type(2) {
-    height:1300px;
+    height:2000px;
 
 }
 
 section:nth-of-type(3) {
-    height:1300px;
+    height:2000px;
 
 }
 
@@ -83,42 +83,42 @@ section:nth-of-type(4) {
 }
 
 section:nth-of-type(5) {
-    height:4500px;
+    height:10000px;
 
 }
 
 section:nth-of-type(6) {
-    height:800px;
+    height:2500px;
 
 }
 
 section:nth-of-type(7) {
-    height:800px;
+    height:2500px;
 
 }
 
 section:nth-of-type(8) {
-    height:800px;
+    height:2500px;
 
 }
 
 section:nth-of-type(9) {
-    height:800px;
+    height:2500px;
 
 }
 
 section:nth-of-type(10) {
-    height:1600px;
+    height:2500px;
 
 }
 
 section:nth-of-type(11) {
-    height:1600px;
+    height:2500px;
 
 }
 
 section:nth-of-type(12) {
-    height:2000px;
+    height:2500px;
 
 }
 
