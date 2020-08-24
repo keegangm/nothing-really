@@ -163,7 +163,8 @@
         // Use requestAnimationFrame for smooth playback
         function scrollPlay(){  
         var frameNumber  = window.pageYOffset/playbackConst;
-        vid.currentTime  = frameNumber;
+        // previously, this was: vid.currentTime  = frameNumber;
+        vid.currentTime  = parseFloat(value).toPrecision(3);
         window.requestAnimationFrame(scrollPlay);
         }
 
