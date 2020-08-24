@@ -51,6 +51,7 @@ section {
     top: 10%;
 }
 h1 {
+    font-family: "Merriweather", serif;
     font-size: 4.5em;
     display: inline-block;
     margin: 0;
