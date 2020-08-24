@@ -4,14 +4,8 @@ body {
     padding: 3em;
     text-align:center;
     color: #000000;
-    height: 100vh;
-
-
+    height: 100vh; /* trying to fix height issue */
 }
-
-html {
-    scroll-behavior: smooth;
-  }
 
 #v0 {
     position:fixed;
